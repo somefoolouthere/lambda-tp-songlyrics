@@ -1,2 +1,3 @@
 # lambda-tp-songlyrics
- Text profiles containing lyrics of songs I know.
+
+ Two text profiles (lowercase and uppercase variants) containing lyrics of songs I know.
